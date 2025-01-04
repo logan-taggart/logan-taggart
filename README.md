@@ -63,13 +63,13 @@ Here are some ideas to get you started:
 - ###### CSCD 320 Algorithms
 - ###### CSCD 350 Software Development Principles
 - ###### CYBR 403 Cybersecurity Policies, Privacy, and Laws
-##### Current Courses (Fall 2024)
+##### Fall 2024
 - ###### CSCD 327 Relational Database Systems
 - ###### CSCD 377 Introductory Computer Graphics
 - ###### CSCD 429 Data Mining
 - ###### CSCD 467 Parallel and Cloud Computing
   <hr/>
-##### Upcoming Courses (Winter 2025):
+##### Current Courses (Winter 2025):
 - ###### CSCD 434 Network Security
 - ###### CSCD 437 Secure Coding
 - ###### CSCD 488 Senior Project
