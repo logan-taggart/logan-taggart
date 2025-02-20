@@ -74,3 +74,7 @@ Here are some ideas to get you started:
 - ###### CSCD 437 Secure Coding
 - ###### CSCD 488 Senior Project
   <hr/>
+##### Upcoming Courses (Spring 2025):
+- ###### CSCD 305 C++ Programming
+- ###### CSCD 490 Senior Capstone
+- ###### CSCD 499 Directed Study
