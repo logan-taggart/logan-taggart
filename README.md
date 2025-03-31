@@ -64,4 +64,4 @@
 ##### Current Courses (Spring 2025):
 - ###### CSCD 305 C++ Programming
 - ###### CSCD 490 Senior Capstone
-- ###### CSCD 499 Directed Study
+- ###### CSCD 499 Predictive Input Directed Study
