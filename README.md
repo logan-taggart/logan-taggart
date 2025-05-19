@@ -1,7 +1,8 @@
 ## Hi There 👋
 
-##### My name is Logan Taggart and I am a Senior at Eastern Washington University majoring in Computer Science with a minor in Cybersecurity. I'm passionate about using technology to solve problems and make people's lives easier. Feel free to check out my repositories or reach out to me to see what I’ve been working on! <br> <br>
-### [Resume](https://github.com/logan-taggart/logan-taggart/blob/main/Logan_Taggart_Resume.pdf) <br>
+##### My name is Logan Taggart and I am a Senior at Eastern Washington University majoring in Computer Science with a minor in Cybersecurity. I'm passionate about using technology to solve problems and make people's lives easier. Feel free to check out my repositories or reach out to me to see what I’ve been working on! <br>
+#### [Resume](https://github.com/logan-taggart/logan-taggart/blob/main/Logan_Taggart_Resume.pdf)
+#### [LinkedIn](https://www.linkedin.com/in/logantaggart/) <br>
 <hr/>
 
 ### Languages:
