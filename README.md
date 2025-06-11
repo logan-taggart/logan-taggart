@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-##### My name is Logan Taggart and I am a Senior at Eastern Washington University majoring in Computer Science with a minor in Cybersecurity. I'm passionate about using technology to solve problems and make people's lives easier. Feel free to check out my repositories or reach out to me to see what I’ve been working on! <br>
+##### My name is Logan Taggart and I am a recent graduate from Eastern Washington University who majored in Computer Science with a minor in Cybersecurity. I'm passionate about using technology to solve problems and make people's lives easier. Feel free to check out my repositories or reach out to me to see what I’ve been working on! <br>
 #### [Resume](https://github.com/logan-taggart/logan-taggart/blob/main/Logan_Taggart_Resume.pdf)
 #### [LinkedIn](https://www.linkedin.com/in/logantaggart/) <br>
 <hr/>
@@ -62,8 +62,7 @@
 - ###### CSCD 434 Network Security
 - ###### CSCD 437 Secure Coding
 - ###### CSCD 488 Senior Project
-  <hr/>
-##### Current Courses (Spring 2025):
+##### Spring 2025:
 - ###### CSCD 305 C++ Programming
 - ###### CSCD 490 Senior Capstone
 - ###### CSCD 499 Predictive Input Directed Study
