@@ -1,4 +1,4 @@
-## Hi There 👋
+## Hi There 👋✌️
 
 ##### My name is Logan Taggart and I am a recent graduate from Eastern Washington University who majored in Computer Science with a minor in Cybersecurity. I'm passionate about using technology to solve problems and make people's lives easier. Feel free to check out my repositories or reach out to me to see what I’ve been working on! <br>
 #### [Resume](https://github.com/logan-taggart/logan-taggart/blob/main/Logan_Taggart_Resume.pdf)
@@ -12,7 +12,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
