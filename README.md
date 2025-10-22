@@ -51,7 +51,7 @@
 
 <hr/>
 
-#### Computer Science Courses Taken:
+#### Computer Science Courses Taken at EWU:
 ##### Winter 2023:
 - ###### CSCD 110 Introduction To Programming
 - ###### CSCD 202 Computing Ethics
