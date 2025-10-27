@@ -1,6 +1,6 @@
 ## Hi There 👋✌️
 
-##### My name is Logan Taggart and I am a recent graduate from Eastern Washington University who majored in Computer Science with a minor in Cybersecurity. I'm passionate about using technology to solve problems and make people's lives easier. Feel free to check out my repositories or reach out to me to see what I’ve been working on! <br>
+##### My name is Logan Taggart, and I’m currently pursuing my Master of Science in Computer Science degree at Western Governors University with a focus on Artificial Intelligence and Machine Learning. I’m a recent Computer Science graduate from Eastern Washington University with a minor in Cybersecurity, who is very passionate about using technology to solve real-world problems and bridge innovation with everyday usefulness. Feel free to check out my repositories or reach out to me to see what all I’ve been working on! <br>
 #### [Resume](https://github.com/logan-taggart/logan-taggart/blob/main/Logan_Taggart_Resume.pdf)
 #### [LinkedIn](https://www.linkedin.com/in/logantaggart/) <br>
 <hr/>
