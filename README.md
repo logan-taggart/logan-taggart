@@ -53,47 +53,48 @@
 
 #### Computer Science Courses Taken at EWU:
 ##### Winter 2023:
-- ###### CSCD 110 Introduction To Programming
-- ###### CSCD 202 Computing Ethics
+- ###### CSCD 110 - Introduction To Programming
+- ###### CSCD 202 - Computing Ethics
 ##### Spring 2023:
-- ###### CSCD 210 Programming Principles I
-- ###### CSCD 330 Computer Networks
-##### Fall 2023
-- ###### CSCD 211 Programming Principles II
-- ###### CSCD 240 C And Unix Programming
-- ###### CSCD 303 Computer and Information Security
-##### Winter 2024
-- ###### CSCD 212 Object Oriented Programming with Design Patterns
-- ###### CSCD 300 Data Structures
-##### Spring 2024
-- ###### CSCD 320 Algorithms
-- ###### CSCD 350 Software Development Principles
-- ###### CYBR 403 Cybersecurity Policies, Privacy, and Laws
-##### Fall 2024
-- ###### CSCD 327 Relational Database Systems
-- ###### CSCD 377 Introductory Computer Graphics
-- ###### CSCD 429 Data Mining
-- ###### CSCD 467 Parallel and Cloud Computing
+- ###### CSCD 210 - Programming Principles I
+- ###### CSCD 330 - Computer Networks
+##### Fall 2023:
+- ###### CSCD 211 - Programming Principles II
+- ###### CSCD 240 - C And Unix Programming
+- ###### CSCD 303 - Computer and Information Security
+##### Winter 2024:
+- ###### CSCD 212 - Object Oriented Programming with Design Patterns
+- ###### CSCD 300 - Data Structures
+- ###### MATH 301 - Discrete Mathematics
+##### Spring 2024:
+- ###### CSCD 320 - Algorithms
+- ###### CSCD 350 - Software Development Principles
+- ###### CYBR 403 - Cybersecurity Policies, Privacy, and Laws
+##### Fall 2024:
+- ###### CSCD 327 - Relational Database Systems
+- ###### CSCD 377 - Introductory Computer Graphics
+- ###### CSCD 429 - Data Mining
+- ###### CSCD 467 - Parallel and Cloud Computing
 ##### Winter 2025:
-- ###### CSCD 434 Network Security
-- ###### CSCD 437 Secure Coding
-- ###### CSCD 488 Senior Project
+- ###### CSCD 434 - Network Security
+- ###### CSCD 437 - Secure Coding
+- ###### CSCD 488 - Senior Project
 ##### Spring 2025:
-- ###### CSCD 305 C++ Programming
-- ###### CSCD 490 Senior Capstone
-- ###### CSCD 499 Predictive Input Directed Study
+- ###### CSCD 305 - C++ Programming
+- ###### CSCD 490 - Senior Capstone
+- ###### CSCD 499 - Predictive Input Directed Study
 
 <hr>
 
 #### Computer Science Courses Taken at WGU:
 ##### Upcoming:
-- ###### Formal	Languages	Overview
-- ###### Computer	Architecture and Systems
-- ###### Applied Algorithms and Reasoning
-- ###### Unix and Linux
-- ###### Artificial	Intelligence and Machine Learning Foundations
-- ###### Governance, Risk, and Compliance
-- ###### Machine Learning for Computer Scientists
-- ###### Deep	Learning
-- ###### Natural Language	Processing
-- ###### Advanced AI for Computer Scientists
+- ###### D 793 - Formal	Languages	Overview
+- ###### D 794 - Computer	Architecture and Systems
+- ###### D 795 - Applied Algorithms and Reasoning
+- ###### D 796 - Unix and Linux
+- ###### D 797 - Artificial	Intelligence and Machine Learning Foundations
+- ###### D 486 - Governance, Risk, and Compliance
+- ###### D 801 - Machine Learning for Computer Scientists
+- ###### D 802 - Deep	Learning
+- ###### D 803 - Natural Language	Processing
+- ###### D 804 - Advanced AI for Computer Scientists
