@@ -82,3 +82,18 @@
 - ###### CSCD 305 C++ Programming
 - ###### CSCD 490 Senior Capstone
 - ###### CSCD 499 Predictive Input Directed Study
+
+<hr>
+
+#### Computer Science Courses Taken at WGU:
+##### Upcoming:
+- ###### Formal	Languages	Overview
+- ###### Computer	Architecture and Systems
+- ###### Applied Algorithms and Reasoning
+- ###### Unix and Linux
+- ###### Artificial	Intelligence and Machine Learning Foundations
+- ###### Governance, Risk, and Compliance
+- ###### Machine Learning for Computer Scientists
+- ###### Deep	Learning
+- ###### Natural Language	Processing
+- ###### Advanced AI for Computer Scientists
