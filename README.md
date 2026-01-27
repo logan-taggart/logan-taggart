@@ -88,7 +88,6 @@
 
 #### Computer Science Courses Taken at WGU:
 ##### Current:
-- ###### D 794 - Computer	Architecture and Systems
 - ###### D 795 - Applied Algorithms and Reasoning
 ##### Upcoming:
 - ###### D 796 - Unix and Linux
@@ -100,3 +99,4 @@
 - ###### D 804 - Advanced AI for Computer Scientists
 ##### Completed:
 - ###### D 793 - Formal Languages Overview
+- ###### D 794 - Computer	Architecture and Systems
