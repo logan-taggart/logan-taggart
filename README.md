@@ -89,9 +89,9 @@
 #### Computer Science Courses Taken at WGU:
 ##### Current:
 - ###### D 795 - Applied Algorithms and Reasoning
-##### Upcoming:
 - ###### D 796 - Unix and Linux
 - ###### D 797 - Artificial	Intelligence and Machine Learning Foundations
+##### Upcoming:
 - ###### D 486 - Governance, Risk, and Compliance
 - ###### D 801 - Machine Learning for Computer Scientists
 - ###### D 802 - Deep	Learning
