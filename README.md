@@ -89,9 +89,9 @@
 #### Computer Science Courses Taken at WGU:
 ##### Current:
 - ###### D 486 - Governance, Risk, and Compliance
-##### Upcoming:
 - ###### D 801 - Machine Learning for Computer Scientists
 - ###### D 802 - Deep	Learning
+##### Upcoming:
 - ###### D 803 - Natural Language	Processing
 - ###### D 804 - Advanced AI for Computer Scientists
 ##### Completed:
