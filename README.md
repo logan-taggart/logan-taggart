@@ -90,8 +90,8 @@
 ##### Current:
 - ###### D 801 - Machine Learning for Computer Scientists
 - ###### D 802 - Deep	Learning
-##### Upcoming:
 - ###### D 803 - Natural Language	Processing
+##### Upcoming:
 - ###### D 804 - Advanced AI for Computer Scientists
 ##### Completed:
 - ###### D 486 - Governance, Risk, and Compliance
