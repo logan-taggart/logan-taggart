@@ -89,7 +89,6 @@
 #### Computer Science Courses Taken at WGU:
 ##### Current:
 - ###### D 801 - Machine Learning for Computer Scientists
-- ###### D 802 - Deep	Learning
 - ###### D 803 - Natural Language	Processing
 ##### Upcoming:
 - ###### D 804 - Advanced AI for Computer Scientists
@@ -100,3 +99,4 @@
 - ###### D 795 - Applied Algorithms and Reasoning
 - ###### D 796 - Unix and Linux
 - ###### D 797 - Artificial	Intelligence and Machine Learning Foundations
+- ###### D 802 - Deep	Learning
